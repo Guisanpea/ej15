@@ -1,0 +1,1 @@
+/home/archie/.platformio/packages/toolchain-atmelavr/bin/avr-g++  -g  -rdynamic CMakeFiles/Arduino.dir/src/ej15.cpp.o  -o Arduino 
